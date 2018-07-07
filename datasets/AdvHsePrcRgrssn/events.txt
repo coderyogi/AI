@@ -16,5 +16,11 @@
 {"type": "ORDER", "verb": "NEW", "key": "68d84e5d1a45", "event_time": "2017-01-08T12:55:55.555Z", "customer_id": "96f55c7d8f44", "total_amount": "112.52 USD"},
 {"type": "ORDER", "verb": "NEW", "key": "68d84e5d1a46", "event_time": "2017-01-09T12:55:55.555Z", "customer_id": "96f55c7d8f45", "total_amount": "120.23 USD"},
 {"type": "ORDER", "verb": "NEW", "key": "68d84e5d1a47", "event_time": "2017-01-10T12:55:55.555Z", "customer_id": "96f55c7d8f42", "total_amount": "192.34 USD"},
-{"type": "ORDER", "verb": "NEW", "key": "68d84e5d1a48", "event_time": "2017-01-11T12:55:55.555Z", "customer_id": "96f55c7d8f42", "total_amount": "1232.34 USD"}
+{"type": "ORDER", "verb": "NEW", "key": "68d84e5d1a48", "event_time": "2017-01-11T12:55:55.555Z", "customer_id": "96f55c7d8f42", "total_amount": "1232.34 USD"},
+{"type": "ORDER", "verb": "NEW", "key": "68d84e5d1a49", "event_time": "2018-01-06T12:55:55.555Z", "customer_id": "96f55c7d8f42", "total_amount": "92.34 USD"},
+{"type": "ORDER", "verb": "NEW", "key": "68d84e5d1a50", "event_time": "2018-01-07T12:55:55.555Z", "customer_id": "96f55c7d8f43", "total_amount": "120.56 USD"},
+{"type": "ORDER", "verb": "NEW", "key": "68d84e5d1a51", "event_time": "2018-01-08T12:55:55.555Z", "customer_id": "96f55c7d8f44", "total_amount": "121.30 USD"},
+{"type": "ORDER", "verb": "NEW", "key": "68d84e5d1a52", "event_time": "2018-01-09T12:55:55.555Z", "customer_id": "96f55c7d8f45", "total_amount": "720.67 USD"},
+{"type": "ORDER", "verb": "NEW", "key": "68d84e5d1a53", "event_time": "2018-01-10T12:55:55.555Z", "customer_id": "96f55c7d8f42", "total_amount": "18.98 USD"},
+{"type": "ORDER", "verb": "NEW", "key": "68d84e5d1a54", "event_time": "2018-01-11T12:55:55.555Z", "customer_id": "96f55c7d8f42", "total_amount": "123.45 USD"}
 ]
